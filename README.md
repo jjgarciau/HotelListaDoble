@@ -38,4 +38,5 @@ Abra el proyecto en CLion y ejecute **HotelListaDoble**. El programa crea `hotel
 
 ## Link videos
 
-https://eafit-my.sharepoint.com/:v:/g/personal/javasquezt_eafit_edu_co/EclYF_kB5RlAnWpJk4sI8CQBAnm_Ji4S52loPctxDYaxcw?e=WrK98y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- https://eafit-my.sharepoint.com/:v:/g/personal/javasquezt_eafit_edu_co/EclYF_kB5RlAnWpJk4sI8CQBAnm_Ji4S52loPctxDYaxcw?e=WrK98y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- https://youtu.be/roDGn7Qzjuo
